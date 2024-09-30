@@ -1,4 +1,5 @@
-# Microservices Assignment : Setup & Deployment
+# Microservices Assignment : 
+Setup & Deployment
 This project involves setting up 2 microservices using Visual Studio Code, Spring Tool Suite, Docker and Kubernetes. The services were built, containerized, and deployed on a local Kubernetes cluster using Minikube.
 
 **Setup and Installations**
