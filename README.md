@@ -55,7 +55,11 @@ kubectl apply -f k8s-hello.yaml
 kubectl apply -f k8s-world.yaml
 Verified the services were externally accessible:
 Hello Service: http://34.172.139.242:8080/hello
-World Service: http://34.134.15.68:8081/world
+<img width="1440" alt="Hello local host" src="https://github.com/user-attachments/assets/1afcfca3-fcc4-4fe8-9fed-911ed0b7ef1e">
+
+World Service: http://34.134.15.68:8080/world
+<img width="1440" alt="World local host" src="https://github.com/user-attachments/assets/a26868a1-f606-4100-99c9-a76bdc9e292b">
+
 Creation of HelloWorld Service, Integration, and Testing
 
 **Service Integration**
@@ -81,11 +85,14 @@ Hello Microservice: https://hub.docker.com/repository/docker/paavanikaruturi9/he
 
 World Microservice: https://hub.docker.com/repository/docker/paavanikaruturi9/world-service/general
 
-![image](https://github.com/user-attachments/assets/ec7b8734-1245-4534-9c1d-49b01cc5fc20)
+<img width="1440" alt="Hello" src="https://github.com/user-attachments/assets/ff3be293-3c64-4305-941f-4b4b23f072f2">
 
-![image](https://github.com/user-attachments/assets/6e60564f-e7a9-48cb-91c0-b9bb39eb84ed)
+<img width="1440" alt="World" src="https://github.com/user-attachments/assets/18a2ed17-1fc9-48e6-836d-5cbfbb04e6df">
+
+
 
 
 # Docker images
-![image](https://github.com/user-attachments/assets/189cf172-680e-466c-90ff-9a804f167d8b)
+<img width="1130" alt="Screenshot 2024-09-30 at 2 16 35 PM" src="https://github.com/user-attachments/assets/a180a52f-747b-4588-9e82-baa7d2a0d03b">
+
 
